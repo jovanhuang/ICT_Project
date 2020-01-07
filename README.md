@@ -1,9 +1,9 @@
-# ICT_Project
-NTU CZ1003 Intro To Computational Thinking Mini Project
+# NTU CZ1003 Intro To Computational Thinking Mini Project
+In this project, we were tasked to write a Python program that allows the user to browse the opening stalls in NTU north spine canteen and their current available menu at any date and time using computer. 
 
-## Real-time Canteen Information System
 This is a Python program that allows the user to browse the opening stalls in NTU north spine canteen and their current available menu at any date and time using computer. 
 
+## Program's capabilities
 This real-time NTU north spine canteen information system has the following capabilities:  
 A. Store and display stall information  
 B. Store and display stall menus  
