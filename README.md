@@ -14,8 +14,8 @@ number of people in the queue
 F. Allow to check the operating hours for all stalls  
 
 ##
-To run program, navigate to ICT_Project.py and run it.
-This program is best run on Mac OS for better GUI experience
+To run program, navigate to ICT_Project.py and run it. 
+This program is best run on Mac OS for better GUI experience.  
 
 ###
 *External python module used : tkCalendar
