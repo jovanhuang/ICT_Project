@@ -21,6 +21,6 @@ This program is best run on Mac OS for better GUI experience.
 *External python module used : tkCalendar
 
 ## Project Team Members
->Jovan Huang
->Huang Shaohang
+>Jovan Huang  
+>Huang Shaohang  
 >Eugene Hoe
